@@ -1,42 +1,26 @@
 export default [
   {
-    text: 'Describe this project, whas it a college activity or an acctual job? What did you do ? link the website bellow if you can.',
-    image: 'project-1.jpg',
+    text: 'Recreating the Instagram login page using HTML and CSS.',
+    image: 'instagram.png',
   },
   {
-    text: 'text 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
-    image: 'project-2.jpg',
+    text: 'Recreating the Twitter login page using HTML and CSS.',
+    image: 'twitter.png',
   },
   {
-    text: 'text 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
-    image: 'project-3.jpg',
+    text: "Rocketseat's Next Level Week project, where was created a selective collection website for a city using HTML, CSS and JavaScript. (in progress)",
+    image: 'ecoleta.png',
   },
   {
-    text: 'text 3 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
-    image: 'project-4.jpg',
+    text: 'The project purpose is recreate the Netflix home page, using HTML, CSS, JavaScript and JQuery',
+    image: 'netflix.png',
   },
   {
-    text: 'text 4 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
-    image: 'project-5.jpg',
+    text: 'Recreating the famous snake game in JavaScript language, through the practical challenge in Digital Innovation One plataform. (in progress)',
+    image: 'snake.png',
   },
   {
-    text: 'text 5 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
-    image: 'project-6.jpg',
-  },
-  {
-    text: 'text 6 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
-    image: 'project-7.jpg',
-  },
-  {
-    text: 'text 7 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
-    image: 'project-8.jpg',
-  },
-  {
-    text: 'text 8 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
-    image: 'project-9.jpg',
-  },
-  {
-    text: 'text 9 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
-    image: 'project-10.jpg',
+    text: 'Creating a tip calculator, using HTML, CSS and JavaScript.',
+    image: 'tips.png',
   },
 ];
