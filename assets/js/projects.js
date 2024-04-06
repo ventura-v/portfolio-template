@@ -1,5 +1,10 @@
 export default [
   {
+    text: 'Creating a plataform to find a restaurant based on your location, using the Google Maps API, React and JavaScript.',
+    image: 'restaurant-finder.png',
+    url: 'https://restaurant-finder-react-dio.netlify.app/'
+  },
+  {
     text: 'Recreating the Instagram login page using HTML and CSS.',
     image: 'instagram.png',
     url: 'https://insta-login-page-clone.netlify.app/'
