@@ -25,8 +25,13 @@ export default [
     url: 'https://snake-game-js-html-css.netlify.app/'
   },
   {
-    text: 'Creating a tip calculator, using HTML, CSS and JavaScript.',
+    text: 'Creating a tip calculator using HTML, CSS and JavaScript.',
     image: 'tips.png',
     url: 'https://calculadora-gorjeta-js-onebitcode.netlify.app/'
   },
+  {
+    text: 'Creating a Newsletter form using Vite, React, TypeScript and Tailwind',
+    image: 'newsletter.png',
+    url: 'https://newsletter-form-vite-react.netlify.app/'
+  }
 ];
