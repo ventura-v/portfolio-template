@@ -22,5 +22,6 @@ export default [
   {
     text: 'Creating a tip calculator, using HTML, CSS and JavaScript.',
     image: 'tips.png',
+    url: 'https://calculadora-gorjeta-js-onebitcode.netlify.app/'
   },
 ];
