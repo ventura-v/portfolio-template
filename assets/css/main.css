@@ -83,6 +83,7 @@ body {
 
 .about__image {
   border-radius: 50%;
+  width: 100%
 }
 
 .about__text,
